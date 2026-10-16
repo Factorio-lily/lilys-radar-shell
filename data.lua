@@ -315,7 +315,7 @@ data:extend({
     {
         type = "recipe",
         name = "radar-artillery-shell",
-        category = "advanced-crafting",
+        categories = { "advanced-crafting" },
         allow_productivity = false,
         enabled = false,
         energy_required = 30,
